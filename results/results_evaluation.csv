@@ -1,0 +1,144 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Evaluation results ,"RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight=None,
+                       criterion='gini', max_depth=None, max_features='auto',
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=3, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=10,
+                       n_jobs=None, oob_score=False, random_state=None,
+                       verbose=0, warm_start=False)",none,0.8934509670851714,0.8934509670851714,0.8934509670851714,0.8934509670851712,0.8934509670851714,0
+Evaluation results ,"RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight=None,
+                       criterion='gini', max_depth=None, max_features='auto',
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=1, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=50,
+                       n_jobs=None, oob_score=False, random_state=None,
+                       verbose=0, warm_start=False)",none,0.9131319986426875,0.9131319986426875,0.9131319986426875,0.9131319986426875,0.9131319986426875,0
+Evaluation results ,"RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight=None,
+                       criterion='gini', max_depth=None, max_features='auto',
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=3, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=50,
+                       n_jobs=None, oob_score=False, random_state=None,
+                       verbose=0, warm_start=False)",none,0.8975229046487954,0.8975229046487954,0.8975229046487954,0.8975229046487954,0.8975229046487954,0
+Evaluation results ,"RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight=None,
+                       criterion='gini', max_depth=None, max_features='auto',
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=3, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=300,
+                       n_jobs=None, oob_score=False, random_state=None,
+                       verbose=0, warm_start=False)",none,0.9280624363759755,0.9280624363759755,0.9280624363759755,0.9280624363759755,0.9280624363759755,0
+Evaluation results ,"RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight=None,
+                       criterion='gini', max_depth=None, max_features='auto',
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=60, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=300,
+                       n_jobs=None, oob_score=False, random_state=None,
+                       verbose=0, warm_start=False)",none,0.8890397013912453,0.8890397013912453,0.8890397013912453,0.8890397013912453,0.8890397013912453,0
+Evaluation results ,"BaggingClassifier(base_estimator=Perceptron(alpha=0.0001, class_weight=None,
+                                            early_stopping=False, eta0=1.0,
+                                            fit_intercept=True, max_iter=1000,
+                                            n_iter_no_change=5, n_jobs=None,
+                                            penalty=None, random_state=0,
+                                            shuffle=True, tol=0.001,
+                                            validation_fraction=0.1, verbose=0,
+                                            warm_start=False),
+                  bootstrap=True, bootstrap_features=False, max_features=1.0,
+                  max_samples=1.0, n_estimators=1000, n_jobs=None,
+                  oob_score=False, random_state=None, verbose=0,
+                  warm_start=False)",none,0.9545300305395318,0.9545300305395318,0.9545300305395318,0.9545300305395318,0.9545300305395318,0
+Evaluation results ,"BaggingClassifier(base_estimator=Perceptron(alpha=0.0001, class_weight=None,
+                                            early_stopping=False, eta0=1.0,
+                                            fit_intercept=True, max_iter=1000,
+                                            n_iter_no_change=5, n_jobs=None,
+                                            penalty=None, random_state=0,
+                                            shuffle=True, tol=0.001,
+                                            validation_fraction=0.1, verbose=0,
+                                            warm_start=False),
+                  bootstrap=True, bootstrap_features=False, max_features=1.0,
+                  max_samples=1.0, n_estimators=100, n_jobs=None,
+                  oob_score=False, random_state=None, verbose=0,
+                  warm_start=False)",none,0.9535120461486257,0.9535120461486257,0.9535120461486257,0.9535120461486257,0.9535120461486257,0
+Evaluation results ,"BaggingClassifier(base_estimator=Perceptron(alpha=0.0001, class_weight=None,
+                                            early_stopping=False, eta0=1.0,
+                                            fit_intercept=True, max_iter=1000,
+                                            n_iter_no_change=5, n_jobs=None,
+                                            penalty=None, random_state=0,
+                                            shuffle=True, tol=0.001,
+                                            validation_fraction=0.1, verbose=0,
+                                            warm_start=False),
+                  bootstrap=True, bootstrap_features=False, max_features=5,
+                  max_samples=1.0, n_estimators=100, n_jobs=None,
+                  oob_score=False, random_state=None, verbose=0,
+                  warm_start=False)",none,0.819138106549033,0.819138106549033,0.819138106549033,0.819138106549033,0.819138106549033,0
+Evaluation results ,"BaggingClassifier(base_estimator=Perceptron(alpha=0.0001, class_weight=None,
+                                            early_stopping=False, eta0=1.0,
+                                            fit_intercept=True, max_iter=1000,
+                                            n_iter_no_change=5, n_jobs=None,
+                                            penalty=None, random_state=0,
+                                            shuffle=True, tol=0.001,
+                                            validation_fraction=0.1, verbose=0,
+                                            warm_start=False),
+                  bootstrap=True, bootstrap_features=False, max_features=5,
+                  max_samples=1.0, n_estimators=1000, n_jobs=None,
+                  oob_score=False, random_state=None, verbose=0,
+                  warm_start=False)",none,0.8720732948761453,0.8720732948761453,0.8720732948761453,0.8720732948761453,0.8720732948761453,0
+Evaluation results ,"BaggingClassifier(base_estimator=Perceptron(alpha=0.0001, class_weight=None,
+                                            early_stopping=False, eta0=1.0,
+                                            fit_intercept=True, max_iter=1000,
+                                            n_iter_no_change=5, n_jobs=None,
+                                            penalty=None, random_state=0,
+                                            shuffle=True, tol=0.001,
+                                            validation_fraction=0.1, verbose=0,
+                                            warm_start=False),
+                  bootstrap=False, bootstrap_features=False, max_features=1.0,
+                  max_samples=1.0, n_estimators=1000, n_jobs=None,
+                  oob_score=False, random_state=None, verbose=0,
+                  warm_start=False)",none,0.9562266711910418,0.9562266711910418,0.9562266711910418,0.9562266711910418,0.9562266711910418,0
+Evaluation results ,"GradientBoostingClassifier(ccp_alpha=0.0, criterion='friedman_mse', init=None,
+                           learning_rate=0.1, loss='deviance', max_depth=3,
+                           max_features=None, max_leaf_nodes=None,
+                           min_impurity_decrease=0.0, min_impurity_split=None,
+                           min_samples_leaf=1, min_samples_split=2,
+                           min_weight_fraction_leaf=0.0, n_estimators=10,
+                           n_iter_no_change=None, presort='deprecated',
+                           random_state=None, subsample=1.0, tol=0.0001,
+                           validation_fraction=0.1, verbose=0,
+                           warm_start=False)",none,0.8819138106549033,0.8819138106549033,0.8819138106549033,0.8819138106549033,0.8819138106549033,0
+Evaluation results ,"GradientBoostingClassifier(ccp_alpha=0.0, criterion='friedman_mse', init=None,
+                           learning_rate=0.1, loss='deviance', max_depth=3,
+                           max_features=None, max_leaf_nodes=None,
+                           min_impurity_decrease=0.0, min_impurity_split=None,
+                           min_samples_leaf=2, min_samples_split=2,
+                           min_weight_fraction_leaf=0.0, n_estimators=100,
+                           n_iter_no_change=None, presort='deprecated',
+                           random_state=None, subsample=1.0, tol=0.0001,
+                           validation_fraction=0.1, verbose=0,
+                           warm_start=False)",none,0.9317950458092976,0.9317950458092976,0.9317950458092976,0.9317950458092975,0.9317950458092976,0
